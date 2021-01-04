@@ -1,0 +1,8 @@
+{
+  "appId": "br.com.navigationApp",
+  "appName": "navigationApp",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build",
+  "linuxAndroidStudioPath": "/home/padoquiina/android-studio/bin/studio.sh"
+}
