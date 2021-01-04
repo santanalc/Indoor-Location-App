@@ -1,4 +1,4 @@
-# Thales App
+# Indoor-Location-App
 
 Aplicativo desenvolvido para realizar a localização in door em mapa fixo, utilizando principalmente [**React**](https://pt-br.reactjs.org/) e [**CapacitorJs**](https://capacitorjs.com/).
 
@@ -38,5 +38,3 @@ Obs: Caso de erro para abrir o projeto, novamente, verifique o path.
 4. Dentro do android-studio vá em Build->Build Bundle(s)/APK(s)->Build APK(s)
 
 5. Após finalizar o processo, o software irá mostrar uma mensagem no lado inferior direito com o titulo Build APK(s), então selecione o locate para abrir o local em que o apk foi salvo.
-# Indoor-Location-App
-# Indoor-Location-App
